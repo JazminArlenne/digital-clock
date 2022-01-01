@@ -1,0 +1,19 @@
+*{
+    background-color: darkslategrey;
+    text-align: center;
+}
+
+h1, p{
+    font-family: 'Orbitron', sans-serif;
+    color: greenyellow;
+}
+
+h1{
+    font-size: 4.2em;
+    text-decoration: underline;
+}
+
+p{
+    font-size: 8.2em;
+}
+
